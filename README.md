@@ -24,3 +24,4 @@ python app.py
 The API will be available at `http://127.0.0.1:5000/`. The root endpoint returns a health message; event and registration endpoints are under `/api/`.
 
 The `.env` file is ignored by Git. Configure `SUPABASE_URL` and `SUPABASE_PUBLISHABLE_KEY` in your deployment environment as well.
+# sangamnathA50
